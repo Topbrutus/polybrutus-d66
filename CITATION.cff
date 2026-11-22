@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the official Zenodo DOI for this scientific preprint after release."
+title: "Polybrutus 66D: Exact 71-Point Euclidean Metric and Sixtyfold Ideal Graph Mode"
+type: software
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: "0.1.0"
+date-released: 2026-11-21
+license: MIT
+repository-code: https://github.com/Topbrutus/polybrutus-d66
+abstract: "Exact synthetic 71-point labelled Euclidean squared-distance metric and separately stipulated dimensionless ideal graph."
